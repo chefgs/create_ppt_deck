@@ -60,7 +60,7 @@ def create_presentation():
         ("Example: Creating a Presentation",
          "- Create a new presentation\n- Add slides with content\n- Customize styling\n- Save the presentation"),
         ("Conclusion",
-         "- python-pptx is powerful for presentation automation")
+         "- python-pptx is powerful for presentation automation and customization\n- Try it out for your next presentation!"),
     ]
 
     for title, content in slides_content:
