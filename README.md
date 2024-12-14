@@ -1,5 +1,9 @@
 # How to Run the Python Script to Create a Presentation
 
+## Build Status
+
+[![Python application](https://github.com/chefgs/create_ppt_deck/actions/workflows/python-app.yml/badge.svg)](https://github.com/chefgs/create_ppt_deck/actions/workflows/python-app.yml)
+
 This guide will help you run the Python script to create the PPT deck code in `create_ppt_deck.py`
 
 ## Prerequisites
